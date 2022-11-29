@@ -1,0 +1,108 @@
+.main {
+    background-attachment: fixed;
+    background-image: url(12.png);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+
+}
+
+.main-text {
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding-top: 80px;
+}
+
+.main-text-1 {
+    font-size: 17px;
+    letter-spacing: 0.18em;
+
+}
+
+.main-text-2 {
+    line-height: 1.4rem;
+    font-weight: 900;
+    font-size: 110px;
+}
+
+.uneversal-btn {
+    background-color: black;
+    color: #fff;
+    margin-top: 70px;
+    padding: 5px 30px;
+    border: 2px solid black;
+    transition: 0.5s;
+}
+
+.uneversal-btn:hover {
+    background-color: rgba(255, 255, 255, 0);
+    color: black;
+}
+
+.left-about-me {
+    height: 600px;
+
+
+}
+
+.line {
+    font-size: 80px;
+    font-weight: 100;
+}
+
+.right-about-me {
+    height: 600px;
+    background-image: url(13.png);
+}
+
+.help {
+    background-attachment: fixed;
+    background-image: url(12.png);
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.wariant {
+    background-color: #fff;
+    height: 250px;
+    width: 250px;
+}
+
+.switch {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.btn-1 {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    border-bottom: 1px solid rgb(12, 110, 94);
+    margin-right: 0;
+}
+
+.btn-2 {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+    border-bottom: 1px solid rgb(12, 110, 94);
+    margin-left: 0;
+}
+
+.btnOneClick {
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom: 2px solid rgb(12, 110, 94);
+    margin-right: 0;
+}
+
+.btnTwoClick {
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    border-bottom: 2px solid rgb(12, 110, 94);
+    margin-left: 0;
+}
